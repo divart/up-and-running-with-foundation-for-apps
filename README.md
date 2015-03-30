@@ -11,6 +11,6 @@ In the "App Development Files" folder you'll find all the HTML and Sass files cr
 
 Also included is the folder "Final App Build" which is the finished version of the app seen tested in a second localhost server at the end of the course.
 
-**Available on Tuts+ 28 May, 2014**
+**Available on Tuts+ April 2015**
 
 [View the demo](http://tutsplus.github.io/up-and-running-with-foundation-for-apps/Final App Build)
